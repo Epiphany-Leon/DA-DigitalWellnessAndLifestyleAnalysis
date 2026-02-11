@@ -45,10 +45,12 @@ Regression analysis revealed that **Sleep Quality** ($R^2$ impact) is a statisti
 
 We identified three distinct user clusters based on digital behavior:
 
-Persona,Characteristics,Wellness Profile
-Cluster 1: Balanced Users,"Low screen time, balanced activity.","Lowest Stress, Highest Mental Health Score."
-Cluster 2: Gamers,"High gaming hours, moderate social media.","Moderate Stress, varied mental health."
-Cluster 3: Heavy Social Users,"Extremely high social media use, low physical activity.","Highest Stress, Lowest Mental Health Score."
+| Persona                     | Characteristics                                      | Wellness Profile                                  |
+|-----------------------------|------------------------------------------------------|---------------------------------------------------|
+| Cluster 1: Balanced Users   | Low screen time, balanced physical activity.         | Lowest Stress, Highest Mental Health Score.       |
+| Cluster 2: Gamers           | High gaming hours, moderate social media use.        | Moderate Stress, varied mental health outcomes.   |
+| Cluster 3: Heavy Social Users | Extremely high social media use, low physical activity. | Highest Stress, Lowest Mental Health Score.       |
+
 
 ## 💡 Practical Implications
 
